@@ -6,3 +6,7 @@ class demo{
 	}
 
 }
+
+public static void main(String[] args){
+  SpringApplication.run(demo.class,args);
+}

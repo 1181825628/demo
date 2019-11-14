@@ -1,7 +1,8 @@
 @RestController
-class ThisWillActuallyRun{
+class demo{
 	@RequestMapping("/")
 	String home(){
 		"hello Worid!"
 	}
+
 }

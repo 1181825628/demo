@@ -1,0 +1,4 @@
+@RestController
+public class demo{
+String home(){return "Hello World"}
+}
